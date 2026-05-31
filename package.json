@@ -1,0 +1,6 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "type": "module",
+  "main": ".opencode/plugins/agent-skills.js"
+}
